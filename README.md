@@ -42,9 +42,23 @@ Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ens
 <br clear="left"/>
 
 ### 📊 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRafael-79&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-       alt="Estatísticas do GitHub" title="Estatísticas do GitHub" height="200" style="padding-right:10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRafael-79&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-       alt="Linguagens mais usadas" title="Linguagens mais usadas" height="200"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=CarlosRafael-79&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        alt="Estatísticas do GitHub"
+        title="Estatísticas do GitHub"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRafael-79&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        alt="Linguagens mais usadas"
+        title="Linguagens mais usadas"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
