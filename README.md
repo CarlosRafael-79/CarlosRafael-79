@@ -1,5 +1,5 @@
 # Carlos Rafael Nogueira  
-**`Backend Developer`** | **`Data Scientist`**
+**`FullStack Developer`** | **`Data Scientist`**
 
 Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ensino médio técnico em Informática no IFMT e me formei bacharel em Ciência da Computação pela UFMT em 2025, com láurea acadêmica e reconhecimento da SBC como aluno destaque. Sou apaixonado por tecnologia, especialmente por inteligência artificial e arquitetura de software. Meu entusiasmo por desafios lógicos e otimização computacional levou-me a conquistar o bicampeonato mato-grossense da Maratona de Programação ICPC.
 
@@ -27,7 +27,6 @@ Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ens
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"          title="MongoDB"     alt="Logo MongoDB"     width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"    title="PostgreSQL"  alt="Logo PostgreSQL"  width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"            title="Docker"      alt="Logo Docker"      width="30" style="padding-right:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg"    title="Kubernetes"  alt="Logo Kubernetes"  width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                  title="Git"         alt="Logo Git"         width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"            title="Python"      alt="Logo Python"      width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"            title="Pandas"      alt="Logo Pandas"      width="30" style="padding-right:10px;"/>
