@@ -35,6 +35,7 @@ Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ens
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"              title="Keras"       alt="Logo Keras"         width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"              title="HTML"        alt="Logo HTML"          width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"                title="CSS"         alt="Logo CSS"           width="30" style="padding-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  title="Tailwind"    alt="Logo Tailwind"      width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"    title="JavaScript"  alt="Logo JavaScript"    width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"    title="Typescript"  alt="Logo Typescript"    width="30" style="padding-right:10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"              title="React"       alt="Logo React"         width="30" style="padding-right:10px;"/>
