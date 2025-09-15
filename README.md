@@ -49,7 +49,7 @@ Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ens
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=CarlosRafael-79&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=CarlosRafael-79&show_icons=true&include_all_commits=true&locale=pt-br&theme=radical&bg_color=0f1e0f&title_color=2e8b57&text_color=98fb98&icon_color=32cd32"
         alt="Estatísticas do GitHub"
         title="Estatísticas do GitHub"
         height="180"
@@ -57,7 +57,7 @@ Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ens
     </td>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRafael-79&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRafael-79&layout=compact&langs_count=9&theme=radical&bg_color=0f1e0f&title_color=2e8b57&text_color=98fb98&icon_color=32cd32&custom_title=Tecnologias"
         alt="Linguagens mais usadas"
         title="Linguagens mais usadas"
         height="180"
@@ -65,3 +65,4 @@ Sou Carlos Rafael N. de A. Silva, 22 anos, natural de Cuiabá-MT. Concluí o ens
     </td>
   </tr>
 </table>
+
